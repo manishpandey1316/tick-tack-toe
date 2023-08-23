@@ -1,0 +1,17 @@
+
+.square {
+   
+    border: 2px solid black;
+    display: flex;
+  }
+
+  .symbol1
+{
+   background-image: url("../../public/close.png");
+   background-size:cover;
+}
+.symbol2
+{
+    background-image: url("../../public/zero.png");
+    background-size:cover;
+}
